@@ -26,8 +26,8 @@
 1. Клонируйте репозиторий:
 
 ```bash
-git clone https://github.com/Aleksey-Kon/white-list-test.git
-cd testwhitelist
+git clone https://github.com/Wilpraem/white-list-test-ios.git
+cd white-list-test-ios
 ```
 
 2. Установите зависимости:
@@ -105,7 +105,7 @@ npx expo run:android
 ## 🏗 Структура проекта
 
 ```
-testwhitelist/
+white-list-test-ios/
 ├── app/              # Экраны и маршруты (Expo Router)
 ├── assets/           # Изображения, шрифты и ресурсы
 ├── components/       # Переиспользуемые компоненты
